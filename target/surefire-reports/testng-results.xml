@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-06T10:07:44 IST" name="Surefire suite" finished-at="2025-06-06T10:07:44 IST" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2025-06-06T10:07:44 IST" name="Surefire test" finished-at="2025-06-06T10:07:44 IST" duration-ms="41">
+      <class name="TestNG.TestNGSample">
+        <test-method signature="Logout()[pri:1, instance:TestNG.TestNGSample@4df50bcc]" started-at="2025-06-06T10:07:44 IST" name="Logout" finished-at="2025-06-06T10:07:44 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method signature="Login()[pri:2, instance:TestNG.TestNGSample@4df50bcc]" started-at="2025-06-06T10:07:44 IST" name="Login" finished-at="2025-06-06T10:07:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Search()[pri:3, instance:TestNG.TestNGSample@4df50bcc]" started-at="2025-06-06T10:07:44 IST" name="Search" finished-at="2025-06-06T10:07:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Advancedsearch()[pri:4, instance:TestNG.TestNGSample@4df50bcc]" started-at="2025-06-06T10:07:44 IST" name="Advancedsearch" finished-at="2025-06-06T10:07:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Advancedsearch -->
+      </class> <!-- TestNG.TestNGSample -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
